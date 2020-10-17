@@ -42,7 +42,7 @@
 
                             </div>
                             <div class="main-btn-wrap text-center">
-                                <a href="#" class="main-btn gray-border uppercase">EXPLORE</a>
+                                <a href="navo_product.php" class="main-btn gray-border uppercase">EXPLORE</a>
                             </div>
                         </div>
                         <!--//Home 02 Vehicle Slider items-->
@@ -57,7 +57,7 @@
 
                             </div>
                             <div class="main-btn-wrap text-center">
-                                <a href="#" class="main-btn gray-border uppercase">EXPLORE</a>
+                                <a href="navo_product.php" class="main-btn gray-border uppercase">EXPLORE</a>
                             </div>
                         </div>
                         <!--// Home 02 Vehicle Slider items-->
@@ -72,7 +72,7 @@
 
                             </div>
                             <div class="main-btn-wrap text-center">
-                                <a href="#" class="main-btn gray-border uppercase">EXPLORE</a>
+                                <a href="navo_product.php" class="main-btn gray-border uppercase">EXPLORE</a>
                             </div>
                         </div>
                         <!--// Home 02 Vehicle Slider items-->
@@ -87,7 +87,7 @@
 
                             </div>
                             <div class="main-btn-wrap text-center">
-                                <a href="#" class="main-btn gray-border uppercase">EXPLORE</a>
+                                <a href="navo_product.php" class="main-btn gray-border uppercase">EXPLORE</a>
                             </div>
                         </div>
                         <!--// Home 02 Vehicle Slider items-->
@@ -102,7 +102,7 @@
 
                             </div>
                             <div class="main-btn-wrap text-center">
-                                <a href="#" class="main-btn gray-border uppercase">EXPLORE</a>
+                                <a href="navo_product.php" class="main-btn gray-border uppercase">EXPLORE</a>
                             </div>
                         </div>
                         <!--// Home 02 Vehicle Slider items-->
@@ -117,7 +117,7 @@
 
                             </div>
                             <div class="main-btn-wrap text-center">
-                                <a href="#" class="main-btn gray-border uppercase">EXPLORE</a>
+                                <a href="navo_product.php" class="main-btn gray-border uppercase">EXPLORE</a>
                             </div>
                         </div>
                         <!--// Home 02 Vehicle Slider items-->
@@ -165,7 +165,7 @@
                                     Price: <span class="black">$145</span>
                                 </div>
                                 <div class="main-btn-wrap padding-top-20">
-                                    <a href="#" class="main-btn black-border">
+                                    <a href="navo_product.php" class="main-btn black-border">
                                         View</a>
                                 </div>
                             </div>
@@ -192,7 +192,7 @@
                                     Price: <span class="black">$145</span>
                                 </div>
                                 <div class="main-btn-wrap padding-top-20">
-                                    <a href="#" class="main-btn black-border">
+                                    <a href="navo_product.php" class="main-btn black-border">
                                         View</a>
                                 </div>
                             </div>
@@ -219,7 +219,7 @@
                                     Price: <span class="black">$145</span>
                                 </div>
                                 <div class="main-btn-wrap padding-top-20">
-                                    <a href="#" class="main-btn black-border">
+                                    <a href="navo_product.php" class="main-btn black-border">
                                         View</a>
                                 </div>
                             </div>
@@ -245,7 +245,7 @@
                                     Price: <span class="black">$145</span>
                                 </div>
                                 <div class="main-btn-wrap padding-top-20">
-                                    <a href="#" class="main-btn black-border">
+                                    <a href="navo_product.php" class="main-btn black-border">
                                         View</a>
                                 </div>
                             </div>
